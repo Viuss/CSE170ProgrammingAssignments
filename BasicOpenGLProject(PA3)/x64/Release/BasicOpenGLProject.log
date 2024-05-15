@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(34,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(35,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(595,19): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(607,19): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(619,19): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(631,19): warning C4305: '-=': truncation from 'double' to 'float'
+  shader.cpp
+  shaderprogram.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 363 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  BasicOpenGLProject.vcxproj -> C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\x64\Release\OpenGLProject.exe
