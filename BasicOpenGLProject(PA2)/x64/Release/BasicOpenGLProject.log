@@ -1,0 +1,63 @@
+﻿  main.cpp
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(34,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(35,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(477,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(477,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(488,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(488,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(496,19): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(497,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(497,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(505,19): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(506,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(506,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(514,19): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(515,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(515,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(523,19): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(524,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(524,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(533,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(533,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(533,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(533,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(533,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(542,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(542,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(542,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(542,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(542,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(551,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(551,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(551,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(551,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(551,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(560,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(560,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(560,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(560,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(560,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(569,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(569,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(569,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(569,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(569,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(578,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(578,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(578,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(578,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(578,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(734,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(734,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(735,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(735,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(735,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(735,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\BasicOpenGLProject\main.cpp(735,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  shader.cpp
+  shaderprogram.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 339 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  BasicOpenGLProject.vcxproj -> C:\Users\Zak\Downloads\PA2_Support+Code\PA2_Support+Code\x64\Release\OpenGLProject.exe
